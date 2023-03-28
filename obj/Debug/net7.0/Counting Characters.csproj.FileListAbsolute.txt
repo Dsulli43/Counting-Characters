@@ -1,0 +1,15 @@
+/Users/dsullivan6/Desktop/C# Projects /Counting Characters/bin/Debug/net7.0/Counting Characters
+/Users/dsullivan6/Desktop/C# Projects /Counting Characters/bin/Debug/net7.0/Counting Characters.deps.json
+/Users/dsullivan6/Desktop/C# Projects /Counting Characters/bin/Debug/net7.0/Counting Characters.runtimeconfig.json
+/Users/dsullivan6/Desktop/C# Projects /Counting Characters/bin/Debug/net7.0/Counting Characters.dll
+/Users/dsullivan6/Desktop/C# Projects /Counting Characters/bin/Debug/net7.0/Counting Characters.pdb
+/Users/dsullivan6/Desktop/C# Projects /Counting Characters/obj/Debug/net7.0/Counting Characters.csproj.AssemblyReference.cache
+/Users/dsullivan6/Desktop/C# Projects /Counting Characters/obj/Debug/net7.0/Counting Characters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dsullivan6/Desktop/C# Projects /Counting Characters/obj/Debug/net7.0/Counting Characters.AssemblyInfoInputs.cache
+/Users/dsullivan6/Desktop/C# Projects /Counting Characters/obj/Debug/net7.0/Counting Characters.AssemblyInfo.cs
+/Users/dsullivan6/Desktop/C# Projects /Counting Characters/obj/Debug/net7.0/Counting Characters.csproj.CoreCompileInputs.cache
+/Users/dsullivan6/Desktop/C# Projects /Counting Characters/obj/Debug/net7.0/Counting Characters.dll
+/Users/dsullivan6/Desktop/C# Projects /Counting Characters/obj/Debug/net7.0/refint/Counting Characters.dll
+/Users/dsullivan6/Desktop/C# Projects /Counting Characters/obj/Debug/net7.0/Counting Characters.pdb
+/Users/dsullivan6/Desktop/C# Projects /Counting Characters/obj/Debug/net7.0/Counting Characters.genruntimeconfig.cache
+/Users/dsullivan6/Desktop/C# Projects /Counting Characters/obj/Debug/net7.0/ref/Counting Characters.dll
